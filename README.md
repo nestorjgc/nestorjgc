@@ -25,4 +25,7 @@
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
 <br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nestorjgc=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
