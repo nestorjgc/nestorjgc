@@ -26,7 +26,7 @@ A quiz application that puts your pokémon knowledge to the test.
 
 ## Contact Me
 
-**LinkedIn** | [Erik Modica](www.linkedin.com/in/Nestorjgc)<br>
+**LinkedIn** | [Nestor Garcia](www.linkedin.com/in/Nestorjgc)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
 <br>
 
