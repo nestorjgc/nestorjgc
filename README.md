@@ -25,7 +25,8 @@
 
 ## Contact Me
 
-**LinkedIn** | [Nestor Garcia](https://github.com/nestorjgc)<br>
+**LinkedIn** | [Nestor Garcia](www.linkedin.com/in/nestorjgc
+)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
 <br>
 
