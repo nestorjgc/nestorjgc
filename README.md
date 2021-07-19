@@ -5,6 +5,9 @@
 
   
   ---
+  My journey started back in 2010 when I first created my first "Hello World" using a notepad (HTML) in high school. In college, I wanted to expand my knowledge and I went on the route of creating my own projects. Outside the projects that I run on my GitHub, I'm an outdoors person. I like to go surfing and snowboarding in the winter. I also like coffee and spend time with my wife and my dog Rudy!
+
+---
   **Tools I use for coding are**<br>
     JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL, Figma, Visual Studio Code, npm, Webpack
     <p>
