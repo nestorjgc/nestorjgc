@@ -18,11 +18,6 @@
 
 ## Applications
 
-**Workout Vault** | [Live Site](https://workout-vault.herokuapp.com/) | [Source Code](https://github.com/ErikModica/workout-vault)<br>
-A fullstack JavaScript application for gym goers who are looking to find new exercises and create structured workout agendas.
-
-**Who's That Pokémon** | [Live Site](https://erikmodica.github.io/whos-that-pokemon/) | [Source Code](https://github.com/ErikModica/whos-that-pokemon)<br>
-A quiz application that puts your pokémon knowledge to the test.
 
 ## Contact Me
 
