@@ -1,6 +1,11 @@
-<img src="/Garcia3.png" alt="banner"/>
+<p align="center">
+  <img width="700" src="/Garcia3.png" alt="banner">
+</p>
 
-###         Hi there welcome to my GitHub page 👋
+---
+<p align="center">    Hi there welcome to my GitHub page 👋 </p> 
+
+
 
 
   
