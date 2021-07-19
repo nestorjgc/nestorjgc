@@ -1,9 +1,10 @@
 <img src="/Garcia3.png" alt="banner"/>
----
-# Hi there welcome to my GitHub page 👋
+
+###         Hi there welcome to my GitHub page 👋
 
 
   
+  ---
   **Tools I use for coding are**<br>
     JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL, Figma, Visual Studio Code, npm, Webpack
     <p>
