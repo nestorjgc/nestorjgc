@@ -1,9 +1,9 @@
-<p align="center">
-  <img width="700" src="/Garcia3.png" alt="banner">
+<p>
+  <img width="750" src="/Garcia3.png" alt="banner">
 </p>
 
 ---
-<p align="center">    Hi there welcome to my GitHub page 👋 </p> 
+<p align="center">    <b>Hi there welcome to my GitHub page 👋 <b> </p> 
 
 
 
