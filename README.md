@@ -21,14 +21,16 @@
     </p>
 
 ## Applications
+**Portafolio Website** | [Live Site](https://nestorjgc.github.io/PortafolioWebsite/index.html) | [Source Code](https://github.com/nestorjgc/PortafolioWebsite)<br>
+A fullstack JavaScript application for gym goers who are looking to find new exercises and create structured workout agendas.
 
+**Vigenere-Cipher** | [Live Site](https://nestorjgc.github.io/PortafolioWebsite/work.html) | [Source Code](https://github.com/nestorjgc/Vigenere-Cipher-Program)<br>
+This project creates an encrypted message that users could see and can use for security purposes.
 
 ## Contact Me
 
-**LinkedIn** | [Nestor Garcia](www.linkedin.com/in/nestorjgc
-)<br>
+**LinkedIn** | [Nestor Garcia](https://www.linkedin.com/in/nestorjgc)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
-<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nestorjgc&show_icons=true&theme=gruvbox)
