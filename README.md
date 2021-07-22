@@ -9,7 +9,7 @@
 
 
   
-  ---
+  ----
   **Skills that I use for my projects are:**<br>
     JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL, Figma, Visual Studio Code, npm, Webpack
     <p>
