@@ -27,10 +27,10 @@
 
 ## Applications
 **Portafolio Website** | [Live Site](https://nestorjgc.github.io/PortafolioWebsite/index.html) | [Source Code](https://github.com/nestorjgc/PortafolioWebsite)<br>
-A fullstack JavaScript application for gym goers who are looking to find new exercises and create structured workout agendas.
+A fullstack JavaScript application where users can see my work & portfolio.
 
-**Vigenere-Cipher** | [Live Site](https://nestorjgc.github.io/PortafolioWebsite/work.html) | [Source Code](https://github.com/nestorjgc/Vigenere-Cipher-Program)<br>
-This project creates an encrypted message that users could see and can use for security purposes.
+**Snow-ReactApp** | [Live Site](https://react-web-2c223.web.app/) | [Source Code](https://github.com/nestorjgc/Vigenere-Cipher-Program)<br>
+Best destinations of ski/snowboard resorts in the world. Hosted with Firebase.
 
 ## Contact Me
 
