@@ -41,5 +41,5 @@ Best destinations of ski/snowboard resorts in the world. Hosted with Firebase.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nestorjgc&show_icons=true&theme=gruvbox)
 
 
-
+.
 
