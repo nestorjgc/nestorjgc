@@ -26,7 +26,7 @@
     </p>
 
 ## Applications
-**Portafolio Website** | [Live Site](https://nestorjgc.io/) "_blank" | [Source Code](https://nestorjgc.io/)<br>
+**Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
 A fullstack JavaScript application where users can see my work & portfolio.
 
 **Snow-ReactApp** | [Live Site](https://react-web-2c223.web.app/) | [Source Code](https://github.com/nestorjgc/Vigenere-Cipher-Program)<br>
