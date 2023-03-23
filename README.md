@@ -1,16 +1,16 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 
-<p align="center">
-<a href="https://github.com/nestorjgc"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9111F7&center=true&vCenter=true&width=435&lines=Web+Developer;4%2B+years+of+experience" alt="Typing SVG" /></a>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=9111F7&center=true&vCenter=true&width=435&lines=Nestor+Garcia;Web+Developer;4%2B+years+of+experience" alt="Typing SVG" /></a>
 
 </p>
 
-<!-- markdownlint-enable MD033 -->
+<!-- markdownlint-enable MD033 
 <p align="center">
   <img width="750" src="/Garcia3.png" alt="banner">
 </p>
-
+-->
 `Developer/Creator`
 
 <p align="left">
