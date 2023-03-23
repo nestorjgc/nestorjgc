@@ -2,16 +2,13 @@
   <img width="750" src="/Garcia3.png" alt="banner">
 </p>
 
----
-<p align="center">    <b>Hi there welcome to my GitHub page 👋 <b> </p> 
+`Developer/Creator`
 
+<p align="left">
+  I'm a self taught Web Developer with 3 years in the industry that focuses in problem solving and design. I'm currently working on finishing my A/A in web development at Long Beach City College. In the process, I've made some awesome applications that you can find down below!
+</p>
 
-
-
-  
-  ---
-  **Skills that I use for my projects are:**<br>
-    JavaScript, React, Angular, PhP, MySQL, HTML5, CSS3, Node.js, PostgreSQL, Figma, Visual Studio Code, npm, Webpack
+  **Language and tools:**<br>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
@@ -25,7 +22,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/webpack/webpack-original.svg" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
     </p>
 
-## Applications
+## `Applications`
 **Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
 
 A fullstack JavaScript application where users can see my work & portfolio.
@@ -39,7 +36,7 @@ Extra: MdBootstraps, Material, AOS Animation.
 • Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
 
 
-## Contact Me
+## `Contact Me`
 
 **LinkedIn** | [Nestor Garcia](https://www.linkedin.com/in/nestorjgc)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
