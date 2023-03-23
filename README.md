@@ -35,7 +35,9 @@ A fullstack JavaScript application where users can see my work & portfolio.
 • Angular, I chose angular for this project because I like the way I can use and rehuse components, it's a cleaner and easier way to maintain. <br> <br>
 Extra: MdBootstraps, Material, AOS Animation.
 
- 
+**PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) <br>
+• Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
+
 
 ## Contact Me
 
