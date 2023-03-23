@@ -31,7 +31,7 @@
 A fullstack JavaScript application where users can see my work & portfolio.
 
 **Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) | [Source Code](https://cruisertech-dev.web.app/)<br>
-Best destinations of ski/snowboard resorts in the world. Hosted with Firebase.
+• In charge of developing and maintain company’s website. Hosted with Firebase.
 
 ## Contact Me
 
