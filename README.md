@@ -26,8 +26,8 @@
     </p>
 
 ## Applications
-**Portafolio Website** | [Live Site](https://nestorjgc.io/  target="_blank") | [Source Code](https://nestorjgc.io/  target="_blank")<br>
-  [Google](https://www.google.com "Google's Homepage" target="_blank")
+**Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
+
 
 A fullstack JavaScript application where users can see my work & portfolio.
 
