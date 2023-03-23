@@ -40,15 +40,15 @@
 `Applications`
 ---
 
-**Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
+**Portafolio Website** | [Live Site](https://nestorjgc.io/) <br>
 A fullstack JavaScript application where users can see my work & portfolio.
 
-**Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) | [Source Code](https://cruisertech-dev.web.app/)<br>
+**Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) <br>
 • In charge of developing and maintain company’s website. Hosted with Firebase. <br>
 • Angular, I chose angular for this project because I like the way I can use and rehuse components, it's a cleaner and easier way to maintain. <br> <br>
 Extra: MdBootstraps, Material, AOS Animation.
 
-**PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) <br>
+**PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) | [Documentation](https://github.com/nestorjgc/PHP) <br>
 • Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
 
 ---
