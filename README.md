@@ -22,8 +22,11 @@
   I'm a self taught Web Developer with 4 years in the industry that focuses in problem solving and design. I'm currently working on finishing my A/A in web development at Long Beach City College. In the process, I've made some awesome applications that you can find down below!
 </p>
 
-  **Language and tools:**<br>
+  **🧰 Language and tools:**<br>
     <p>
+  <img align="left" alt="C++" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Angular"  height="40"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
