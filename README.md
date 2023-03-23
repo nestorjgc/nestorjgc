@@ -64,6 +64,6 @@ Extra: MdBootstraps, Material, AOS Animation.
 
 <details>
  <summary><h3>👨‍💻 Nestor's Coding Journey</h3></summary>
-   I started my coding journey in 2018 as a self taught student with a passion to learn everything I could about this programming world. I wanted to expand my self taught knowledge and that's when I started going to school. I specialize in helping companies and entrepreneurs make their applications. I also help them to reach their full potential and attract new customers. In my spare time I enjoy snowboarding and surfing.
+   I started my coding journey in 2018 as a self taught student with a passion to learn everything I could about this programming world. I wanted to expand my self taught knowledge and that's when I started going to school. I specialize in helping companies and entrepreneurs make their applications. I also help them to reach their full potential and attract new customers. In my spare time I enjoy snowboarding and surfing and love to take my GoPro with me!
 
 
