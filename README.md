@@ -32,6 +32,10 @@ A fullstack JavaScript application where users can see my work & portfolio.
 
 **Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) | [Source Code](https://cruisertech-dev.web.app/)<br>
 • In charge of developing and maintain company’s website. Hosted with Firebase.
+• Angular, I chose angular for this project because I like the way I can use and rehuse components, it's a cleaner and easier way to maintain.
+Extra: MdBootstraps, Material, AOS Animation.
+
+ 
 
 ## Contact Me
 
