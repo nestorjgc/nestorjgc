@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
-<p>
+<p align="center">
   <img width="750" src="/Garcia3.png" alt="banner">
 </p>
 
