@@ -30,6 +30,8 @@
   I'm a self taught Web Developer with 4 years in the industry that focuses in problem solving and design. I'm currently working on finishing my A/A in web development at Long Beach City College. In the process, I've made some awesome applications that you can find down below!
 </p>
 
+---
+
   **🧰 Language and tools:**<br>
     <p align="center">
   <img alt="C++" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -47,9 +49,11 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/webpack/webpack-original.svg" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
     </p>
 
-## `Applications`
-**Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
 
+`Applications`
+---
+
+**Portafolio Website** | [Live Site](https://nestorjgc.io/) | [Source Code](https://nestorjgc.io/)<br>
 A fullstack JavaScript application where users can see my work & portfolio.
 
 **Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) | [Source Code](https://cruisertech-dev.web.app/)<br>
@@ -60,8 +64,8 @@ Extra: MdBootstraps, Material, AOS Animation.
 **PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) <br>
 • Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
 
-
-## `Contact Me`
+---
+`Contact Me`
 
 **LinkedIn** | [Nestor Garcia](https://www.linkedin.com/in/nestorjgc)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
