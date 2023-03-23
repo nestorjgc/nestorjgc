@@ -6,11 +6,11 @@
 
 </p>
 
-<!-- markdownlint-enable MD033 
+<!-- markdownlint-enable MD033 -->
 <p align="center">
-  <img width="750" src="/Garcia3.png" alt="banner">
+  <img width="400" src="/Capture.JPG" alt="banner">
 </p>
--->
+
 `Developer/Creator`
 
 <p align="left">
