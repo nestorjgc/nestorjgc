@@ -27,6 +27,8 @@
 
 ## Applications
 **Portafolio Website** | [Live Site](https://nestorjgc.io/  target="_blank") | [Source Code](https://nestorjgc.io/  target="_blank")<br>
+  [Google](https://www.google.com "Google's Homepage" target="_blank")
+
 A fullstack JavaScript application where users can see my work & portfolio.
 
 **Snow-ReactApp** | [Live Site](https://react-web-2c223.web.app/) | [Source Code](https://github.com/nestorjgc/Vigenere-Cipher-Program)<br>
