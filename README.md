@@ -51,6 +51,9 @@ Extra: MdBootstraps, Material, AOS Animation.
 **PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) | [Documentation](https://github.com/nestorjgc/PHP) <br>
 • Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
 
+**JavaScript** | [Projects](https://nestorjgc.github.io/JavaScript/Projects/) | [Documentation](https://github.com/nestorjgc/JavaScript) <br>
+• Journey of all Nestor's project using JavaScript/jQuery and documenting everything on this website with code examples!
+
 ---
 `Contact Me`
 
