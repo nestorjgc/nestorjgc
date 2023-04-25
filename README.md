@@ -14,7 +14,8 @@
 `Developer/Creator`
 
 <p align="left">
-  I'm a self taught Web Developer with 4 years in the industry that focuses in problem solving and design. I'm currently working on finishing my A/A in web development at Long Beach City College. In the process, I've made some awesome applications that you can find down below!
+I'm a self-taught Web Developer with 4 years in the industry that focuses on problem-solving and design. I'm currently working on finishing my A/A in web development at Long Beach City College. I've made some awesome applications that you can find below!
+
 </p>
 
 ---
