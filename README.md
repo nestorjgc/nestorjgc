@@ -41,19 +41,19 @@ I'm a self-taught Web Developer with 5 years in the industry focusing on problem
 `Applications`
 ---
 
-**Portafolio Website** | [Live Site](https://nestorjgc.io/) <br>
-A fullstack JavaScript application where users can see my work & portfolio.
+**Portfolio Website** | [Live Site](https://nestorjgc.io/) <br>
+A full-stack JavaScript application where users can see my work & portfolio.
 
 **Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) <br>
-• In charge of developing and maintain company’s website. Hosted with Firebase. <br>
-• Angular, I chose angular for this project because I like the way I can use and rehuse components, it's a cleaner and easier way to maintain. <br> <br>
+• In charge of developing and maintaining the company’s website. Hosted with Firebase. <br>
+• Angular, I chose angular for this project because I like the way I can use and reuse components, it's a cleaner and easier way to maintain. <br> <br>
 Extra: MdBootstraps, Material, AOS Animation.
 
 **PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) | [Documentation](https://github.com/nestorjgc/PHP) <br>
-• Journey of all Nestor's project using PhP/MySQL and documenting everything on this website with code examples!
+• Journey of all Nestor's projects using PhP/MySQL and documenting everything on this website with code examples!
 
 **JavaScript** | [Projects](https://nestorjgc.github.io/JavaScript/Projects/) | [Documentation](https://github.com/nestorjgc/JavaScript) <br>
-• Journey of all Nestor's project using JavaScript/jQuery and documenting everything on this website with code examples!
+• Journey of all Nestor's projects using JavaScript/jQuery and documenting everything on this website with code examples!
 
 ---
 `Contact Me`
@@ -69,7 +69,7 @@ Extra: MdBootstraps, Material, AOS Animation.
 
 <details>
  <summary><h3>👨‍💻 Nestor's Coding Journey</h3></summary>
-   My name is Nestor and I'm Venezuelan! I moved to the US about 6 years ago and I started my coding journey in 2018 as a self-taught student with a passion to learn everything I could about this programming world. I wanted to expand my self-taught knowledge and that's when I started going to school. I went to Riverside City College for about 3 years studying part-time before we had to move to Long Beach. I'm currently on my last year of finishing my A/A in Web Development at Long Beach City College.
-  I specialize in helping companies and entrepreneurs make their applications. I also help them to reach their full potential and attract new customers. In my spare time, I enjoy snowboarding and surfing and love to take my GoPro with me!
+   My name is Nestor and I'm Venezuelan! I moved to the US about 6 years ago and started my coding journey in 2018 as a self-taught student passionate about learning everything I could about this programming world. I wanted to expand my self-taught knowledge and that's when I started going to school. I went to Riverside City College for about 3 years studying part-time before we had to move to Long Beach. I hold an Associate's Degree in Web Development from Long Beach City College.
+  I specialize in helping companies and entrepreneurs make their applications. I also help them to reach their full potential and attract new customers. I enjoy snowboarding and surfing in my spare time and love to take my GoPro with me!
 
 
