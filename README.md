@@ -21,6 +21,7 @@ I'm a self-taught Web Developer with 5 years in the industry focusing on problem
 ---
 
   **🧰 Language and tools:**<br>
+  
     <p align="center">
   <img alt="C++" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img alt="GitHub" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
