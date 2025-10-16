@@ -44,7 +44,7 @@ I'm a self-taught Web Developer with 5 years in the industry focusing on problem
 **Portfolio Website** | [Live Site](https://nestorjgc.io/) <br>
 A full-stack JavaScript application where users can see my work & portfolio.
 
-**Cruiser-Tech** | [Live Site](https://cruisertech-dev.web.app/) <br>
+**Cruiser-Tech** | [Live Site](https://cruiser-tech.com/) <br>
 • In charge of developing and maintaining the company’s website. Hosted with Firebase. <br>
 • Angular, I chose angular for this project because I like the way I can use and reuse components, it's a cleaner and easier way to maintain. <br> <br>
 Extra: MdBootstraps, Material, AOS Animation.
