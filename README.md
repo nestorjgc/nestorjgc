@@ -8,9 +8,9 @@
 
 <!-- markdownlint-enable MD033 -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="400" src="/Capture.JPG" alt="banner">
-</p>
+</p> -->
 
 `Developer / Creator`
 
