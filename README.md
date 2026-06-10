@@ -74,9 +74,9 @@ A production website built for a Florida-based pool service company.
 • Designed and developed the customer-facing website. <br>
 • Responsive design optimized for mobile and desktop. <br>
 • Service pages, pricing, contact forms, and lead generation. <br>
-• Focused on performance, SEO, and local business visibility. <br>
+• Built with SEO and local search visibility as a primary focus. <br>
 
-Tech: Next.js, TypeScript, Tailwind CSS, Vercel.
+Tech: Astro, TypeScript, Tailwind CSS, Vercel.
 
 ---
 
