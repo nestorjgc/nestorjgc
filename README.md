@@ -1,75 +1,107 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
-
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=9111F7&center=true&vCenter=true&width=435&lines=Nestor+Garcia;Web+Developer;4%2B+years+of+experience" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=9111F7&center=true&vCenter=true&width=550&lines=Nestor+Garcia;Full+Stack+Developer;5%2B+Years+of+Experience;Building+Products+and+Web+Applications" alt="Typing SVG" />
+</a>
 </p>
 
 <!-- markdownlint-enable MD033 -->
+
 <p align="center">
   <img width="400" src="/Capture.JPG" alt="banner">
 </p>
 
-`Developer/Creator`
+`Developer / Creator`
 
 <p align="left">
-I'm a self-taught Web Developer with 5 years in the industry focusing on problem-solving and design. I hold an Associate's Degree in Web Development from Long Beach City College. I've made some awesome applications that you can find below!
+I'm a self-taught Full Stack Developer with 5+ years of experience building web applications, internal tools, marketing platforms, and SaaS products. I hold an Associate's Degree in Web Development from Long Beach City College and enjoy transforming ideas into polished, user-focused applications.
+</p>
+
+---
+
+### 🚀 Current Focus
+
+* Building and growing MyAlbum26
+* Full-stack development with Next.js & TypeScript
+* Product design and user experience
+* Marketing automation and integrations
+* Scalable SaaS applications
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="center">
+
+<img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img alt="NodeJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img alt="Supabase" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" />
+<img alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+<img alt="VS Code" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img alt="Vercel" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" />
 
 </p>
 
 ---
 
-  **🧰 Language and tools:**<br>
-    <p align="center">
-  <img alt="C++" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img alt="GitHub" height="40"   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Angular"  height="40"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/css3/css3-original.svg" alt="CSS" height="40" style="vertical-   align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/webpack/webpack-original.svg" alt="Webpack" height="40" style="vertical-align:top; margin:4px">
-    </p>
+## Featured Projects
 
+### ⚽ MyAlbum26 | [Live Site](https://www.myalbum26.com/)
 
-`Applications`
----
+A World Cup 2026 sticker album tracker built for collectors.
 
-**Portfolio Website** | [Live Site](https://nestorjgc.io/) <br>
-A full-stack JavaScript application where users can see my work & portfolio.
-
-**Cruiser-Tech** | [Live Site](https://cruiser-tech.com/) <br>
-• In charge of developing and maintaining the company’s website. Hosted with Firebase. <br>
-• Angular, I chose angular for this project because I like the way I can use and reuse components, it's a cleaner and easier way to maintain. <br> <br>
-Extra: MdBootstraps, Material, AOS Animation.
-
-**PhP** | [Projects](https://nestor-journal-weeks.nestorjgc.repl.co/) | [Documentation](https://github.com/nestorjgc/PHP) <br>
-• Journey of all Nestor's projects using PhP/MySQL and documenting everything on this website with code examples!
-
-**JavaScript** | [Projects](https://nestorjgc.github.io/JavaScript/Projects/) | [Documentation](https://github.com/nestorjgc/JavaScript) <br>
-• Journey of all Nestor's projects using JavaScript/jQuery and documenting everything on this website with code examples!
+• Track owned and missing stickers. <br>
+• Manage duplicates and trading inventory. <br>
+• Generate shareable trade lists. <br>
+• Find collectors and complete trades. <br>
+• Built with Next.js, TypeScript, Tailwind CSS, Supabase and PostgreSQL.
 
 ---
-`Contact Me`
+
+### 🏊 Caribbean Pool Service Florida | [Live Site](https://caribbeanpsflorida.com/)
+
+A production website built for a Florida-based pool service company.
+
+• Designed and developed the customer-facing website. <br>
+• Responsive design optimized for mobile and desktop. <br>
+• Service pages, pricing, contact forms, and lead generation. <br>
+• Focused on performance, SEO, and local business visibility. <br>
+
+Tech: Next.js, TypeScript, Tailwind CSS, Vercel.
+
+---
+
+### 🚗 Cruiser-Tech | [Live Site](https://cruiser-tech.com/)
+
+• Developed and maintained the company's public website. <br>
+• Built using Angular and Firebase Hosting. <br>
+• Focused on reusable components and maintainable architecture. <br>
+
+Tech: Angular, Firebase, Material UI.
+
+---
+
+### 🌐 Portfolio Website | [Live Site](https://nestorjgc.io/)
+
+Personal portfolio showcasing projects, experience, and development work.
+
+---
+
+## 📫 Contact Me
 
 **LinkedIn** | [Nestor Garcia](https://www.linkedin.com/in/nestorjgc)<br>
-**Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| nestorjgcc@hotmail.com<br>
+**Portfolio** | https://nestorjgc.io/<br>
+**Email** | [nestorjgcc@gmail.com](mailto:nestorjgcc@gmail.com)<br>
 
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nestorjgc&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nestorjgc)
-
-#
-
-<details>
- <summary><h3>👨‍💻 Nestor's Coding Journey</h3></summary>
-   My name is Nestor and I'm Venezuelan! I moved to the US about 10 years ago and started my coding journey in 2018 as a self-taught student passionate about learning everything I could about this programming world. I wanted to expand my self-taught knowledge and that's when I started going to school. I went to Riverside City College for about 3 years studying part-time before we had to move to Long Beach. I hold an Associate's Degree in Web Development from Long Beach City College.
-  I specialize in helping companies and entrepreneurs make their applications. I also help them to reach their full potential and attract new customers. I enjoy snowboarding and surfing in my spare time and love to take my GoPro with me!
-
-
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nestorjgc&show_icons=true&theme=gruvbox)
+-->
