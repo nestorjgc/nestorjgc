@@ -99,7 +99,7 @@ Personal portfolio showcasing projects, experience, and development work.
 ## 📫 Contact Me
 
 **LinkedIn** | [Nestor Garcia](https://www.linkedin.com/in/nestorjgc)<br>
-**Portfolio** | https://nestorjgc.io/<br>
+**Portfolio** | https://nestorjgc.com/<br>
 **Email** | [nestorjgcc@gmail.com](mailto:nestorjgcc@gmail.com)<br>
 
 <!--
