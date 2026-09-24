@@ -90,7 +90,7 @@ Tech: Angular, Firebase, Material UI.
 
 ---
 
-### 🌐 Portfolio Website | [Live Site](https://nestorjgc.io/)
+### 🌐 Portfolio Website | [Live Site](https://nestorjgc.com/)
 
 Personal portfolio showcasing projects, experience, and development work.
 
