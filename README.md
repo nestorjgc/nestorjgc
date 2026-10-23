@@ -15,7 +15,7 @@
 `Developer / Creator`
 
 <p align="left">
-I'm a self-taught Full Stack Developer with 5+ years of experience building web applications, internal tools, marketing platforms, and SaaS products. I hold an Associate's Degree in Web Development from Long Beach City College and enjoy transforming ideas into polished, user-focused applications.
+I'm a self-taught Full Stack Developer with 6+ years of experience building web applications, internal tools, marketing platforms, and SaaS products. I hold an Associate's Degree in Web Development from Long Beach City College and enjoy transforming ideas into polished, user-focused applications.
 </p>
 
 ---
